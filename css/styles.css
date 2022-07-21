@@ -1,0 +1,23 @@
+body 
+{
+    background-color: #EDFFEC;
+}
+hr
+{
+    border-color: grey;
+    border-style: dotted none none;
+    border-width: 6px;
+    height:0px;
+    width: 5%;
+}
+
+h1
+{
+    color: #52057B;
+    text-shadow: 2px 2px 5px cyan;
+}
+h3
+{
+    color:#CF0000;
+    text-shadow: 2px 2px 5px black;
+}
